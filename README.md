@@ -21,4 +21,4 @@ I find Sankey and Alluvial diagrams aesthetically pleasing. Apart from the diagr
 
 ### Credits
 1. [Generating Sankey Diagrams or Alluvial Diagrams with Python's Plotly Library | Jupyter Notebook](https://www.youtube.com/watch?v=yyVwvBUFRwY&t=831s)
-  - This video alone was sufficient to provide a high-level understand on building a basic Alluvial diagram using Plotly. I used this as a base reference and value added my own ideas from there.
+    - This video alone was sufficient to provide a high-level understand on building a basic Alluvial diagram using Plotly. I used this as a base reference and value added my own ideas from there.
